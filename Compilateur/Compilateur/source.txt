@@ -1,0 +1,9 @@
+VAR
+i1 = -3,
+ub2 = 5,
+ui2 = 72
+FVAR
+INSTR
+ub2 = (ui2 + 3) * i1,
+ui2 = ub2 * ui2 / 2
+FINSTR
